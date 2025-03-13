@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">binance-ticker</string>
+    <string name="error_message">Ошибка, попробуйте проверить соединение с интернетом и перезайти в приложение.</string>
 </resources>
