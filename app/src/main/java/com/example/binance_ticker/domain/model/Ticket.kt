@@ -1,4 +1,4 @@
-package com.example.binance_ticker.di.model
+package com.example.binance_ticker.domain.model
 
 data class Ticket(
     val symbol: String,
